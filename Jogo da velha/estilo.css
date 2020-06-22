@@ -1,0 +1,12 @@
+#pagina-inicial table {
+	margin: 0 auto;
+	margin-top: 150px;
+	border: 2px solid gray;
+	width: 600px;
+}
+
+td {
+	text-align: center;
+  	vertical-align: middle;
+}
+
